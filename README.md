@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 </br>
 <div>
-    I'm a software engineer who loves building personalized apps.</br>
-    My bread and butter is ReactJS, but I also love integrated APIs with NodeJS and Express.</br>
+    Hiya! My name is Ciprian C. </br>
+    I'm a software engineer from Iasi, Romania who loves building personalized apps. </br>
+    My bread and butter is ReactJS, but I also love integrated APIs with NodeJS and Express. </br>
+    I love to figure out how things work and I enjoy reading tech stuff. </br>
     My favourite motto: Practice makes perfect...
 </div>
 

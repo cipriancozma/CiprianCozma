@@ -108,9 +108,18 @@ Here are some ideas to get you started:
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
         width="48"
         height="48"
-        alt="Next"
+        alt="Node"
       />
       <br /><strong>Node.js</strong>
+    </td>
+   <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
     </td>
   </tr>
 

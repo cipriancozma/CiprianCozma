@@ -83,8 +83,8 @@ Here are some ideas to get you started:
       />
       <br /><strong>Angular</strong>
     </td>
-    <tr>
-
+</tr>
+<tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"

@@ -74,6 +74,7 @@ Here are some ideas to get you started:
       />
       <br /><strong>React</strong>
     </td>
+   <tr>
      <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg"
@@ -83,8 +84,6 @@ Here are some ideas to get you started:
       />
       <br /><strong>Angular</strong>
     </td>
-</tr>
-<tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -122,6 +121,8 @@ Here are some ideas to get you started:
       />
       <br /><strong>Node.js</strong>
     </td>
+</tr>
+ <tr>
    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"

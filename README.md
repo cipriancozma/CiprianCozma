@@ -74,16 +74,17 @@ Here are some ideas to get you started:
       />
       <br /><strong>React</strong>
     </td>
-    <tr>
        <td align="center" height="108" width="108">
       <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angular/angular-original.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg"
         width="48"
         height="48"
-        alt="React"
+        alt="Angular"
       />
       <br /><strong>Angular</strong>
     </td>
+       <tr>
+
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"

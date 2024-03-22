@@ -74,7 +74,7 @@ Here are some ideas to get you started:
       />
       <br /><strong>React</strong>
     </td>
-       <td align="center" height="108" width="108">
+     <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg"
         width="48"
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
       />
       <br /><strong>Angular</strong>
     </td>
-       <tr>
+    <tr>
 
     <td align="center" height="108" width="108">
       <img

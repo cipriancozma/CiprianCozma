@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- # Hi there [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
+Hiya![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ciprian Cozma
+=====================================================================================================================================
 </br>
 <div>
-    Hiya! My name is Ciprian C. </br>
     I'm a software engineer from Iasi, Romania who loves building personalized apps. </br>
     My bread and butter is ReactJS, but I also love integrated APIs with NodeJS and Express. </br>
     I love to figure out how things work and I enjoy reading tech stuff. </br>
@@ -136,3 +135,10 @@ Here are some ideas to get you started:
 
   </tr>
 </table>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/cipriancozma"><img src="https://github-readme-stats.vercel.app/api?username=cipriancozma&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cipriancozma's GitHub stats" /></a>
+
+<a href="http://www.github.com/cipriancozma"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cipriancozma&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+

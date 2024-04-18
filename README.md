@@ -16,13 +16,16 @@ Here are some ideas to get you started:
 
 Hiya![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ciprian Cozma
 =====================================================================================================================================
+
+Software Developer
+------------------
+
+My bread and butter is ReactJS, but I also love integrated APIs with NodeJS and Express. I love to figure out how things work and I enjoy reading tech stuff. 
+My favourite motto is: Practice makes perfect...
+
+* 🌍  I'm based in Iasi, Romania
+* ✉️  You can contact me at [cozma.ciprian19@gmail.com](mailto:cozma.ciprian19@gmail.com)
 </br>
-<div>
-    I'm a software engineer from Iasi, Romania who loves building personalized apps. </br>
-    My bread and butter is ReactJS, but I also love integrated APIs with NodeJS and Express. </br>
-    I love to figure out how things work and I enjoy reading tech stuff. </br>
-    My favourite motto: Practice makes perfect...
-</div>
 
 # 🔧 Technologies & Tools
 </br>

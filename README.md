@@ -26,8 +26,11 @@ My favourite motto is: Practice makes perfect...
 * 🌍  I'm based in Iasi, Romania
 * ✉️  You can contact me at [cozma.ciprian19@gmail.com](mailto:cozma.ciprian19@gmail.com)
 * 🧠  I'm learning Angular && C#
+* 🤖  Currently, I'm exploring the realms of artificial intelligence and machine learning
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I am a React Ninja...but don't tell anyone
+* 💻  I am a React Ninja...but don't tell anyone
+* 🌐  I'm particularly interested in web development and cloud technologies
+* 🎓  I enjoy learning new things and keeping up with the latest trends in technology
 </br>
 
 # 🔧 Technologies & Tools
